@@ -1,4 +1,4 @@
-# MULTAR
+# Multimodal Arbitrary Style Transfer
 
 The official implementation of the ICASSP paper "A simple way of multimodal and arbitrary style transfer".
 
@@ -38,6 +38,7 @@ python train.py path/to/COCO-train-valid-root path/to/WikiArt
 #### Testing
 
 To test the network, prepare a folder of input images, a folder of style images, and a pretrained model.
+A trained model can be downloaded [here](https://yonsei-my.sharepoint.com/:u:/g/personal/adnguyen_o365_yonsei_ac_kr/EVsx-iJT-zBOpUNVSvIIkDsB5qPa2DZ-_FXFF34p0z7fsQ?e=1KbUXE).
 Then execute
 
 ```
