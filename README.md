@@ -81,13 +81,18 @@ By default, the script will generate 5 images/style. User ```--help``` to see mo
 If you use this implementation in your paper, please kindly cite the following paper
 
 ```
-@inproceedings{multar,
-   author = {Nguyen, Anh-Duc and Choi, Seonghwa and Kim, Woojae and Lee, Sanghoon},
-   title = {A simple way of multimodal and arbitrary style transfer},
-   booktitle = {2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-   publisher = {IEEE},
-   type = {Conference Proceedings}
-}
+@INPROCEEDINGS{multar,
+author={A. {Nguyen} and S. {Choi} and W. {Kim} and S. {Lee}},
+booktitle={ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+title={A Simple Way of Multimodal and Arbitrary Style Transfer},
+year={2019},
+volume={},
+number={},
+pages={1752-1756},
+keywords={Image style transfer;convolutional neural network;deep learning},
+doi={10.1109/ICASSP.2019.8683493},
+ISSN={2379-190X},
+month={May},}
 ```
 
 ## References
